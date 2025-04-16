@@ -1,4 +1,5 @@
-![Demo](assets/demo.gif)
+[![MasterHead](assets/demo.gif)
+
 # 💫 About Me:
 👋 Hi there! I'm Adwaith Jayan, a Computer Engineering student with a passion for technology and innovation<br>🌱 I’m currently learning Machine Learning and Full-stack Development<br>🔧 Skills : C, Python, Java, MySQL, HTML<br>🔍 Interests: System Programming, Operating Systems, Machine Learning<br>📫 Let's Connect ✉️: adwaithjayan1234@gmail.com<br><br>Feel free to reach out for collaborations, project ideas, or just a tech chat!
 
